@@ -1,2 +1,2 @@
-# uxdesign
+# Portfolio
 UX Design Portfolio
